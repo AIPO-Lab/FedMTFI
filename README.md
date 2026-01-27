@@ -322,16 +322,6 @@ CFG.local_epochs = 2
 CFG.use_shap = False  # Disable SHAP for faster testing
 ```
 
-## Citation
-
-If you use this code in your research, please cite:
-```bibtex
-@article{fedmtfi2025,
-  title={FedMTFI: Feature Importance Based Optimized Multi Teacher Knowledge Distillation in Heterogeneous Federated Learning Environment},
-  author={Shadin, Nazmus Shakib and Cummings, Aaron and Zhang, Xinyue and Deng, Bobin},
-  year={2025}
-}
-```
 
 ## License
 
