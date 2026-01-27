@@ -322,7 +322,3 @@ CFG.local_epochs = 2
 CFG.use_shap = False  # Disable SHAP for faster testing
 ```
 
-
-## License
-
-This project is licensed under the MIT License.
