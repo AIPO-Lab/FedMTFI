@@ -44,6 +44,7 @@ FedMTFI-main/
 ├── non_iid_distributor.py     # Dirichlet-based data distribution strategies
 ├── metrics_logger.py          # Comprehensive metrics tracking
 ├── shap_utils.py              # Feature importance analysis
+├── utils.py                   # General utility helpers (accuracy computation)
 ├── plotting_utils.py          # Visualization utilities
 ├── run_ablation_study.py      # Ablation study runner (SHAP vs no SHAP)
 ├── run_with_shap.py           # Run experiment with SHAP enabled
